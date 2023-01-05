@@ -52,13 +52,13 @@
   * [YouTube](https://bit.ly/InuInuMusic)
   * [@InuInuGames](https://twitter.com/InuInuGames)
   * [note.com](https://note.com/inuinu_)
-
-<iframe width="320" height="160" src="https://ext.nicovideo.jp/thumb_user/98013232" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">いぬいぬGames</iframe>
+  * niconico [niconico](https://nico.ms/user/98013232)
 
 ## License
 
 "CeVIO voice libraries database" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
-## :link:Linked projects
+## :link:Related projects
 
-*
+* :octocat:[LibSasara](https://github.com/InuInu2022/LibSasara)
+* :octocat:[Fluent CeVIO Wrapper](https://github.com/InuInu2022/FluentCeVIOWrapper)
