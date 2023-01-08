@@ -42,6 +42,11 @@
 * ccsファイルとlabファイルが含まれます
 * :construction_worker:WIP
 
+### [Song] DynamicsCheck
+
+* :construction_worker:WIP
+* ソングボイスの強弱指定の影響のデータです
+
 ## 📓Note
 
 
