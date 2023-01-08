@@ -21,7 +21,7 @@
   </Generation>
   <Sequence Id="">
     <Scene Id="">
-      <Timeline Partition="288.666666666667,268" CurrentPosition="00:00:02">
+      <Timeline Partition="288.666666666667,268" CurrentPosition="00:00:17.1250000">
         <ViewScale Horizontal="0.31" Vertical="0.64583333333333337" />
       </Timeline>
       <TalkEditor Partition="592">
@@ -184,9 +184,9 @@
         </Unit>
       </Units>
       <Groups ActiveGroup="fd8b8955-b580-4762-8215-f24b23dee226">
-        <Group Version="1.0" Id="434e09b3-45f1-4463-81ed-d93c02c44b4c" Category="SingerSong" Name="ソング" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-A" Language="Japanese" />
-        <Group Version="1.0" Id="fd8b8955-b580-4762-8215-f24b23dee226" Category="SingerSong" Name="ソング (コピー)" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-BSR1" Language="Japanese" />
-        <Group Version="1.0" Id="36c35819-61ed-4524-ac91-61c35e82613f" Category="SingerSong" Name="ソング (コピー) (コピー)" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-BSR2" Language="Japanese" />
+        <Group Version="1.0" Id="434e09b3-45f1-4463-81ed-d93c02c44b4c" Category="SingerSong" Name="SATO_Sasara" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-A" Language="Japanese" />
+        <Group Version="1.0" Id="fd8b8955-b580-4762-8215-f24b23dee226" Category="SingerSong" Name="POPY" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-BSR1" Language="Japanese" />
+        <Group Version="1.0" Id="36c35819-61ed-4524-ac91-61c35e82613f" Category="SingerSong" Name="ROSE" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-BSR2" Language="Japanese" />
       </Groups>
       <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="0" />
     </Scene>
