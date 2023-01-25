@@ -23,15 +23,15 @@
   </Generation>
   <Sequence Id="">
     <Scene Id="">
-      <Timeline Partition="288.666666666667,375.333333333333" CurrentPosition="00:00:01.3750000">
+      <Timeline Partition="288.666666666667,191.333333333333" CurrentPosition="00:00:11.6090000">
         <ViewScale Horizontal="0.31" Vertical="0.64583333333333337" />
       </Timeline>
       <TalkEditor Partition="592">
         <Extension VerticalRatio="222.666666666667*,263.333333333333*" />
       </TalkEditor>
-      <SongEditor Partition="60.6666666666665" Quantize="240" Mode="0" EditingTool="1">
-        <ViewScale Horizontal="80" Vertical="14" />
-        <ReferenceState Current="None" Previous="Timing, C0, LogF0, VibAmp, VibFrq" />
+      <SongEditor Partition="60.6666666666665" Quantize="240" Mode="2" EditingTool="1">
+        <ViewScale Horizontal="64" Vertical="14" />
+        <ReferenceState Current="Timing, C0, LogF0, VibAmp, VibFrq" Previous="Timing, C0, LogF0, VibAmp, VibFrq" />
       </SongEditor>
       <Units>
         <Unit Version="1.0" Id="" Category="SingerSong" Group="434e09b3-45f1-4463-81ed-d93c02c44b4c" StartTime="00:00:00" Duration="00:00:30" CastId="CSNV-JPF-A" Language="Japanese">
@@ -335,13 +335,13 @@
           </Song>
         </Unit>
       </Units>
-      <Groups ActiveGroup="a74298e8-2959-4019-8e2c-6c490f2e17e4">
+      <Groups ActiveGroup="707903e0-8ec0-42c8-85e9-27986a61ea5b">
         <Group Version="1.0" Id="434e09b3-45f1-4463-81ed-d93c02c44b4c" Category="SingerSong" Name="SATO_Sasara" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-A" Language="Japanese" />
         <Group Version="1.0" Id="5e3ba8db-5dc1-45d6-b00d-d6e9e0d3cbd1" Category="SingerSong" Name="#kzn" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-KZA1" Language="Japanese" />
         <Group Version="1.0" Id="fd8b8955-b580-4762-8215-f24b23dee226" Category="SingerSong" Name="POPY" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-BSR1" Language="Japanese" />
         <Group Version="1.0" Id="36c35819-61ed-4524-ac91-61c35e82613f" Category="SingerSong" Name="ROSE" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-BSR2" Language="Japanese" />
-        <Group Version="1.0" Id="707903e0-8ec0-42c8-85e9-27986a61ea5b" Category="SingerSong" Name="COKO_Emo0" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
-        <Group Version="1.0" Id="a74298e8-2959-4019-8e2c-6c490f2e17e4" Category="SingerSong" Name="COKO_Emo1" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="707903e0-8ec0-42c8-85e9-27986a61ea5b" Category="SingerSong" Name="COKO_Emo0" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="a74298e8-2959-4019-8e2c-6c490f2e17e4" Category="SingerSong" Name="COKO_Emo1" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
       </Groups>
       <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="0" />
     </Scene>
