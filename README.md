@@ -47,6 +47,12 @@
 * :construction_worker:WIP
 * ソングボイスの強弱指定の影響のデータです
 
+### [Song] KeyTmgCheck
+
+* :construction_worker:WIP
+* ソングボイスの調号指定の違いによる影響のデータです
+* ccsファイルとlabファイルが含まれます
+
 ## 📓Note
 
 
