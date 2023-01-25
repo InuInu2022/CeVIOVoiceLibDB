@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Scenario Code="7251BC4B6168E7B2992FA620BD3E1E77">
   <Generation>
-    <Author Version="8.2.9.0" />
-    <TTS Version="6.0.17">
-      <Dictionary Version="3.0.13">
+    <Author Version="8.4.0.0" />
+    <TTS Version="6.0.20">
+      <Dictionary Version="3.0.15">
         <Extension Version="2.0.2" Language="English" />
       </Dictionary>
       <SoundSources />
     </TTS>
-    <SVSS Version="6.1.1">
+    <SVSS Version="6.2.0">
       <Dictionary Version="3.0.1">
         <Extension Version="2.0.1" Language="English" />
       </Dictionary>
@@ -373,7 +373,7 @@
           </Song>
         </Unit>
       </Units>
-      <Groups ActiveGroup="bc2818d7-27b3-4c88-8d84-2ec8fb9a25b7">
+      <Groups ActiveGroup="09807adb-c0c8-48f5-8e8d-6b9dbd39f999">
         <Group Version="1.0" Id="3b8c78f6-a8d8-49a4-8a9b-8d6da018a831" Category="SingerSong" Name="C Maj ＿ラララ" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-AHS5" Language="Japanese" />
         <Group Version="1.0" Id="86b97eb9-7f0b-4bea-8a24-5e98969c896a" Category="SingerSong" Name="A Maj. ＿ラララ" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-AHS5" Language="Japanese" />
         <Group Version="1.0" Id="5c66df45-a584-4f26-80dd-413d7d0b453f" Category="SingerSong" Name="C Maj" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-AHS5" Language="Japanese" />
