@@ -14,22 +14,24 @@
       </Dictionary>
       <SoundSources>
         <SoundSource Version="1.0.1" Id="CSNV-JPF-A" Name="さとうささら" />
+        <SoundSource Version="1.0.0" Id="CSNV-JPF-KZA1" Name="#kzn" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-BSR1" Name="POPY(ポピー)" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-BSR2" Name="ROSE(ローズ)" />
+        <SoundSource Version="1.0.0" Id="CSNV-JPF-THR4" Name="狐子(COKO)" />
       </SoundSources>
     </SVSS>
   </Generation>
   <Sequence Id="">
     <Scene Id="">
-      <Timeline Partition="288.666666666667,268" CurrentPosition="00:00:17.1250000">
+      <Timeline Partition="288.666666666667,375.333333333333" CurrentPosition="00:00:01.3750000">
         <ViewScale Horizontal="0.31" Vertical="0.64583333333333337" />
       </Timeline>
       <TalkEditor Partition="592">
         <Extension VerticalRatio="222.666666666667*,263.333333333333*" />
       </TalkEditor>
-      <SongEditor Partition="60.6666666666665" Quantize="240" Mode="1" EditingTool="1">
+      <SongEditor Partition="60.6666666666665" Quantize="240" Mode="0" EditingTool="1">
         <ViewScale Horizontal="80" Vertical="14" />
-        <ReferenceState Current="C0, LogF0, VibAmp" Previous="C0, LogF0, VibAmp" />
+        <ReferenceState Current="None" Previous="Timing, C0, LogF0, VibAmp, VibFrq" />
       </SongEditor>
       <Units>
         <Unit Version="1.0" Id="" Category="SingerSong" Group="434e09b3-45f1-4463-81ed-d93c02c44b4c" StartTime="00:00:00" Duration="00:00:30" CastId="CSNV-JPF-A" Language="Japanese">
@@ -182,11 +184,164 @@
             </Score>
           </Song>
         </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="5e3ba8db-5dc1-45d6-b00d-d6e9e0d3cbd1" StartTime="00:00:00" Duration="00:00:30" CastId="CSNV-JPF-KZA1" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score>
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Dynamics Clock="3840" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="4800" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="5760" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="11520" Value="8" />
+              <Note Clock="11520" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="12480" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="13440" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="15360" Value="5" />
+              <Dynamics Clock="19200" Value="2" />
+              <Note Clock="19200" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="20160" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="21120" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="23040" Value="5" />
+              <Dynamics Clock="26880" Value="10" />
+              <Note Clock="26880" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="27840" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="28800" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="30720" Value="5" />
+              <Dynamics Clock="34560" Value="0" />
+              <Note Clock="34560" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="35520" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="36480" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="38400" Value="5" />
+              <Dynamics Clock="41280" Value="0" />
+              <Dynamics Clock="42240" Value="10" />
+              <Note Clock="42240" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="43200" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="44160" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="46080" Value="5" />
+              <Dynamics Clock="48960" Value="10" />
+              <Dynamics Clock="49920" Value="0" />
+              <Note Clock="49920" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="50880" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="51840" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="53760" Value="5" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="707903e0-8ec0-42c8-85e9-27986a61ea5b" StartTime="00:00:00" Duration="00:00:30" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score>
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Dynamics Clock="3840" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="4800" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="5760" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="11520" Value="8" />
+              <Note Clock="11520" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="12480" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="13440" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="15360" Value="5" />
+              <Dynamics Clock="19200" Value="2" />
+              <Note Clock="19200" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="20160" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="21120" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="23040" Value="5" />
+              <Dynamics Clock="26880" Value="10" />
+              <Note Clock="26880" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="27840" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="28800" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="30720" Value="5" />
+              <Dynamics Clock="34560" Value="0" />
+              <Note Clock="34560" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="35520" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="36480" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="38400" Value="5" />
+              <Dynamics Clock="41280" Value="0" />
+              <Dynamics Clock="42240" Value="10" />
+              <Note Clock="42240" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="43200" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="44160" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="46080" Value="5" />
+              <Dynamics Clock="48960" Value="10" />
+              <Dynamics Clock="49920" Value="0" />
+              <Note Clock="49920" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="50880" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="51840" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="53760" Value="5" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="a74298e8-2959-4019-8e2c-6c490f2e17e4" StartTime="00:00:00" Duration="00:00:30" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Dynamics Clock="3840" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="4800" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="5760" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="11520" Value="8" />
+              <Note Clock="11520" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="12480" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="13440" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="15360" Value="5" />
+              <Dynamics Clock="19200" Value="2" />
+              <Note Clock="19200" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="20160" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="21120" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="23040" Value="5" />
+              <Dynamics Clock="26880" Value="10" />
+              <Note Clock="26880" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="27840" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="28800" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="30720" Value="5" />
+              <Dynamics Clock="34560" Value="0" />
+              <Note Clock="34560" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="35520" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="36480" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="38400" Value="5" />
+              <Dynamics Clock="41280" Value="0" />
+              <Dynamics Clock="42240" Value="10" />
+              <Note Clock="42240" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="43200" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="44160" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="46080" Value="5" />
+              <Dynamics Clock="48960" Value="10" />
+              <Dynamics Clock="49920" Value="0" />
+              <Note Clock="49920" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="50880" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="51840" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="53760" Value="5" />
+            </Score>
+          </Song>
+        </Unit>
       </Units>
-      <Groups ActiveGroup="fd8b8955-b580-4762-8215-f24b23dee226">
+      <Groups ActiveGroup="a74298e8-2959-4019-8e2c-6c490f2e17e4">
         <Group Version="1.0" Id="434e09b3-45f1-4463-81ed-d93c02c44b4c" Category="SingerSong" Name="SATO_Sasara" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-A" Language="Japanese" />
-        <Group Version="1.0" Id="fd8b8955-b580-4762-8215-f24b23dee226" Category="SingerSong" Name="POPY" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-BSR1" Language="Japanese" />
+        <Group Version="1.0" Id="5e3ba8db-5dc1-45d6-b00d-d6e9e0d3cbd1" Category="SingerSong" Name="#kzn" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-KZA1" Language="Japanese" />
+        <Group Version="1.0" Id="fd8b8955-b580-4762-8215-f24b23dee226" Category="SingerSong" Name="POPY" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-BSR1" Language="Japanese" />
         <Group Version="1.0" Id="36c35819-61ed-4524-ac91-61c35e82613f" Category="SingerSong" Name="ROSE" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-BSR2" Language="Japanese" />
+        <Group Version="1.0" Id="707903e0-8ec0-42c8-85e9-27986a61ea5b" Category="SingerSong" Name="COKO_Emo0" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="a74298e8-2959-4019-8e2c-6c490f2e17e4" Category="SingerSong" Name="COKO_Emo1" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR4" Language="Japanese" />
       </Groups>
       <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="0" />
     </Scene>
