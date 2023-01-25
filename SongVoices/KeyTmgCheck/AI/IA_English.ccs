@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Scenario Code="7251BC4B6168E7B2992FA620BD3E1E77">
   <Generation>
-    <Author Version="8.2.9.0" />
-    <TTS Version="6.0.17">
-      <Dictionary Version="3.0.13">
+    <Author Version="8.4.0.0" />
+    <TTS Version="6.0.20">
+      <Dictionary Version="3.0.15">
         <Extension Version="2.0.2" Language="English" />
       </Dictionary>
       <SoundSources />
     </TTS>
-    <SVSS Version="6.1.1">
+    <SVSS Version="6.2.0">
       <Dictionary Version="3.0.1">
         <Extension Version="2.0.1" Language="English" />
       </Dictionary>
@@ -25,9 +25,9 @@
       <TalkEditor Partition="596">
         <Extension VerticalRatio="286.285714285714*,308*" />
       </TalkEditor>
-      <SongEditor Partition="64" Quantize="240" Mode="0" EditingTool="1">
+      <SongEditor Partition="64" Quantize="240" Mode="5" EditingTool="1">
         <ViewScale Horizontal="112" Vertical="14" />
-        <ReferenceState Current="None" Previous="Timing" />
+        <ReferenceState Current="Timing" Previous="Timing" />
       </SongEditor>
       <Units>
         <Unit Version="1.0" Id="" Category="SingerSong" Group="5c66df45-a584-4f26-80dd-413d7d0b453f" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-ENF-FP5" Language="English">
@@ -320,10 +320,10 @@
         </Unit>
       </Units>
       <Groups ActiveGroup="bc2818d7-27b3-4c88-8d84-2ec8fb9a25b7">
-        <Group Version="1.0" Id="5c66df45-a584-4f26-80dd-413d7d0b453f" Category="SingerSong" Name="C Maj" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
-        <Group Version="1.0" Id="e16b8175-74c8-45d1-8c46-bc611c6a3073" Category="SingerSong" Name="G Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
         <Group Version="1.0" Id="3b8c78f6-a8d8-49a4-8a9b-8d6da018a831" Category="SingerSong" Name="C Maj ＿ラララ" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
         <Group Version="1.0" Id="86b97eb9-7f0b-4bea-8a24-5e98969c896a" Category="SingerSong" Name="G Maj. ＿ラララ" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
+        <Group Version="1.0" Id="5c66df45-a584-4f26-80dd-413d7d0b453f" Category="SingerSong" Name="C Maj" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
+        <Group Version="1.0" Id="e16b8175-74c8-45d1-8c46-bc611c6a3073" Category="SingerSong" Name="G Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
         <Group Version="1.0" Id="ea13ec94-6a2a-4022-acca-93593fe8bf33" Category="SingerSong" Name="D Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
         <Group Version="1.0" Id="bc2818d7-27b3-4c88-8d84-2ec8fb9a25b7" Category="SingerSong" Name="A Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
         <Group Version="1.0" Id="435f9b98-5ec5-42b1-8135-bfd78f72adbf" Category="SingerSong" Name="E Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
