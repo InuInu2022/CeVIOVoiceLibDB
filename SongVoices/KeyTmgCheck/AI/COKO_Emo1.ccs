@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scenario Code="7251BC4B6168E7B2992FA620BD3E1E77">
+  <Generation>
+    <Author Version="8.4.0.0" />
+    <TTS Version="6.0.20">
+      <Dictionary Version="3.0.15">
+        <Extension Version="2.0.2" Language="English" />
+      </Dictionary>
+      <SoundSources />
+    </TTS>
+    <SVSS Version="6.2.0">
+      <Dictionary Version="3.0.1">
+        <Extension Version="2.0.1" Language="English" />
+      </Dictionary>
+      <SoundSources>
+        <SoundSource Version="1.0.0" Id="CSNV-JPF-THR4" Name="狐子(COKO)" />
+      </SoundSources>
+    </SVSS>
+  </Generation>
+  <Sequence Id="">
+    <Scene Id="">
+      <Timeline Partition="326.857142857143,317.333333333333" CurrentPosition="00:00:00">
+        <ViewScale Horizontal="1" Vertical="0.375" />
+      </Timeline>
+      <TalkEditor Partition="596">
+        <Extension VerticalRatio="286.285714285714*,308*" />
+      </TalkEditor>
+      <SongEditor Partition="60.6666666666665" Quantize="240" Mode="5" EditingTool="1">
+        <ViewScale Horizontal="96" Vertical="14" />
+        <ReferenceState Current="Timing" Previous="Timing" />
+      </SongEditor>
+      <Units>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="5c66df45-a584-4f26-80dd-413d7d0b453f" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="e16b8175-74c8-45d1-8c46-bc611c6a3073" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="1" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="ea13ec94-6a2a-4022-acca-93593fe8bf33" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="2" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="bc2818d7-27b3-4c88-8d84-2ec8fb9a25b7" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="3" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="435f9b98-5ec5-42b1-8135-bfd78f72adbf" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="4" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="a8e59cd8-8638-4eb5-80f8-148240a861d9" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="-1" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="77ed6493-ddae-4dde-a536-648e6c9764ed" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="-2" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="3b8c78f6-a8d8-49a4-8a9b-8d6da018a831" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ラ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="ラ" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ラ" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="ラ" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="86b97eb9-7f0b-4bea-8a24-5e98969c896a" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="3" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ラ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="ラ" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ラ" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="ラ" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="09807adb-c0c8-48f5-8e8d-6b9dbd39f999" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="-3" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="194672f5-a57e-4240-8111-02e76728c3ca" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="-4" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="d80948a9-8572-46cf-9098-0dc356a68107" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="-5" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="264fece5-a6f8-412b-bc5d-5046920c3591" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="-6" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="52dc1350-f125-4d49-ab1e-75375e481133" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="-7" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="fe08b212-4c03-4790-8706-8972c264d5aa" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="6" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="3362707c-a334-4cef-8d68-e3e639674bb9" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="7" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="2eaf3a25-5987-4696-a21b-d98a68cd798e" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR4" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Emotion0="0" Emotion1="1">
+              <Key Clock="0" Fifths="2" Mode="1" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="5760" PitchStep="0" PitchOctave="4" Duration="960" Lyric="わ" />
+              <Note Clock="6720" PitchStep="2" PitchOctave="4" Duration="960" Lyric="た" />
+              <Note Clock="7680" PitchStep="4" PitchOctave="4" Duration="960" Lyric="し" />
+              <Note Clock="8640" PitchStep="5" PitchOctave="4" Duration="1920" Lyric="に" />
+            </Score>
+          </Song>
+        </Unit>
+      </Units>
+      <Groups ActiveGroup="3b8c78f6-a8d8-49a4-8a9b-8d6da018a831">
+        <Group Version="1.0" Id="3b8c78f6-a8d8-49a4-8a9b-8d6da018a831" Category="SingerSong" Name="C Maj ＿ラララ" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="86b97eb9-7f0b-4bea-8a24-5e98969c896a" Category="SingerSong" Name="A Maj. ＿ラララ" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="5c66df45-a584-4f26-80dd-413d7d0b453f" Category="SingerSong" Name="C Maj" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="2eaf3a25-5987-4696-a21b-d98a68cd798e" Category="SingerSong" Name="Bm" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="e16b8175-74c8-45d1-8c46-bc611c6a3073" Category="SingerSong" Name="G Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="ea13ec94-6a2a-4022-acca-93593fe8bf33" Category="SingerSong" Name="D Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="bc2818d7-27b3-4c88-8d84-2ec8fb9a25b7" Category="SingerSong" Name="A Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="435f9b98-5ec5-42b1-8135-bfd78f72adbf" Category="SingerSong" Name="E Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="a8e59cd8-8638-4eb5-80f8-148240a861d9" Category="SingerSong" Name="F Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="77ed6493-ddae-4dde-a536-648e6c9764ed" Category="SingerSong" Name="B♭ Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="09807adb-c0c8-48f5-8e8d-6b9dbd39f999" Category="SingerSong" Name="E♭ Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="194672f5-a57e-4240-8111-02e76728c3ca" Category="SingerSong" Name="A♭ Maj. " Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="d80948a9-8572-46cf-9098-0dc356a68107" Category="SingerSong" Name="D♭ Maj. " Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="264fece5-a6f8-412b-bc5d-5046920c3591" Category="SingerSong" Name="G♭ Maj. " Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="52dc1350-f125-4d49-ab1e-75375e481133" Category="SingerSong" Name="C♭ Maj. " Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="fe08b212-4c03-4790-8706-8972c264d5aa" Category="SingerSong" Name="F♯ Maj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="3362707c-a334-4cef-8d68-e3e639674bb9" Category="SingerSong" Name="C♯ Maj. " Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+      </Groups>
+      <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="1" />
+    </Scene>
+  </Sequence>
+</Scenario>
