@@ -19,7 +19,7 @@
   </Generation>
   <Sequence Id="">
     <Scene Id="">
-      <Timeline Partition="288.666666666667,236.666666666667" CurrentPosition="00:00:04">
+      <Timeline Partition="288.666666666667,236.666666666667" CurrentPosition="00:00:04.2500000">
         <ViewScale Horizontal="0.31" Vertical="0.64583333333333337" />
       </Timeline>
       <TalkEditor Partition="592">
@@ -536,8 +536,65 @@
             </Score>
           </Song>
         </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="5a0e5621-12bc-4316-8eae-07d589be1941" StartTime="00:00:00" Duration="00:01:02" CastId="CSNV-JPF-A" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score>
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="4800" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="11520" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="12480" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="19200" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="20160" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="21120" PitchStep="4" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="26880" PitchStep="1" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="27840" PitchStep="3" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="28800" PitchStep="5" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="34560" PitchStep="1" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="35520" PitchStep="3" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="36480" PitchStep="5" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Dynamics Clock="42240" Value="8" />
+              <Note Clock="42240" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="43200" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="49920" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="50880" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="57600" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="58560" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="59520" PitchStep="4" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="65280" PitchStep="1" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="66240" PitchStep="3" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="67200" PitchStep="5" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="72960" PitchStep="1" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="73920" PitchStep="3" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="74880" PitchStep="5" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Dynamics Clock="76800" Value="5" />
+              <Dynamics Clock="80640" Value="2" />
+              <Note Clock="80640" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="81600" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="88320" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="89280" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="96000" PitchStep="0" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="96960" PitchStep="2" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="97920" PitchStep="4" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="103680" PitchStep="1" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="104640" PitchStep="3" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="105600" PitchStep="5" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="111360" PitchStep="1" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="112320" PitchStep="3" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Note Clock="113280" PitchStep="5" PitchOctave="4" Duration="960" Lyric="あ" />
+              <Dynamics Clock="115200" Value="5" />
+            </Score>
+          </Song>
+        </Unit>
       </Units>
-      <Groups ActiveGroup="e3cafff7-519b-4041-97c5-58e0daadbdb1">
+      <Groups ActiveGroup="5a0e5621-12bc-4316-8eae-07d589be1941">
         <Group Version="1.0" Id="28e697ce-b942-409c-86eb-61f61050aaa4" Category="SingerSong" Name="ドレミ" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
         <Group Version="1.0" Id="b03e6ae6-f0ad-4568-9687-53d2181d1ea2" Category="SingerSong" Name="ささら" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
         <Group Version="1.0" Id="6a85a42c-617f-4fff-9dbf-676deba4b202" Category="SingerSong" Name="C3-C5_NONE" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
@@ -545,6 +602,7 @@
         <Group Version="1.0" Id="37ccf05a-9f71-4335-8d65-d8bb0b3fa3ef" Category="SingerSong" Name="C3-C5_＾" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
         <Group Version="1.0" Id="487ec568-aaa2-4924-81d3-d0e47582f79f" Category="SingerSong" Name="C3-C5_％" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
         <Group Version="1.0" Id="3cf99770-c785-4d86-afa4-f614b621404d" Category="SingerSong" Name="C3-C5_※" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
+        <Group Version="1.0" Id="5a0e5621-12bc-4316-8eae-07d589be1941" Category="SingerSong" Name="なし" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
         <Group Version="1.0" Id="fc098fb7-085a-4648-a8e9-c832b0f8531b" Category="SingerSong" Name="＠" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
         <Group Version="1.0" Id="f839cbf0-42fa-41ef-b79e-e2391ea5cc93" Category="SingerSong" Name="^" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
         <Group Version="1.0" Id="9f99bb77-a2c9-42f7-bcb3-a247b97f8d7b" Category="SingerSong" Name="％" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
