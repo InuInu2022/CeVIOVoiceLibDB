@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Scenario Code="7251BC4B6168E7B2992FA620BD3E1E77">
   <Generation>
-    <Author Version="8.4.0.0" />
-    <TTS Version="6.0.20">
-      <Dictionary Version="3.0.15">
+    <Author Version="8.4.5.0" />
+    <TTS Version="6.0.21">
+      <Dictionary Version="3.0.17">
         <Extension Version="2.0.2" Language="English" />
       </Dictionary>
       <SoundSources />
     </TTS>
-    <SVSS Version="6.2.0">
+    <SVSS Version="6.2.1">
       <Dictionary Version="3.0.1">
         <Extension Version="2.0.1" Language="English" />
       </Dictionary>
@@ -26,24 +26,25 @@
         <SoundSource Version="1.0.0" Id="CSNV-JPF-THR2" Name="星界(SEKAI)" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-THR3" Name="裏命(RIME)" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-KZA1" Name="#kzn" />
+        <SoundSource Version="1.0.0" Id="CSNV-JPF-THR4" Name="狐子(COKO)" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-GLA1" Name="双葉湊音" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-BSR1" Name="POPY(ポピー)" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-BSR2" Name="ROSE(ローズ)" />
-        <SoundSource Version="1.0.0" Id="CSNV-JPF-THR4" Name="狐子(COKO)" />
+        <SoundSource Version="1.0.1" Id="CSNV-JPF-ICTR1" Name="Ci flower" />
       </SoundSources>
     </SVSS>
   </Generation>
   <Sequence Id="">
     <Scene Id="">
-      <Timeline Partition="288.666666666667,405.333333333333" CurrentPosition="00:00:12.1160000">
+      <Timeline Partition="288.666666666667,233.714285714286" CurrentPosition="00:00:06.2310000">
         <ViewScale Horizontal="0.31" Vertical="0.375" />
       </Timeline>
       <TalkEditor Partition="592">
         <Extension VerticalRatio="222.666666666667*,263.333333333333*" />
       </TalkEditor>
-      <SongEditor Partition="60.6666666666665" Quantize="240" Mode="0" EditingTool="0">
+      <SongEditor Partition="64" Quantize="240" Mode="1" EditingTool="0">
         <ViewScale Horizontal="132" Vertical="12" />
-        <ReferenceState Current="None" Previous="None" />
+        <ReferenceState Current="Timing, LogF0" Previous="None" />
       </SongEditor>
       <Units>
         <Unit Version="1.0" Id="" Category="SingerSong" Group="ff28f9ff-8ba3-4d72-9743-294d1f7847c0" StartTime="00:00:00" Duration="00:00:38" CastId="CSNV-JPF-A" Language="Japanese">
@@ -2083,29 +2084,127 @@
             </Score>
           </Song>
         </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="7b403864-2fff-4224-8e9d-bef4b7e99a03" StartTime="00:00:00" Duration="00:00:38" CastId="CSNV-JPF-ICTR1" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score>
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="4800" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="5760" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Note Clock="6720" PitchStep="5" PitchOctave="4" Duration="960" Lyric="ファ" DoReMi="true" />
+              <Note Clock="7680" PitchStep="7" PitchOctave="4" Duration="960" Lyric="ソ" DoReMi="true" />
+              <Note Clock="8640" PitchStep="9" PitchOctave="4" Duration="960" Lyric="ラ" DoReMi="true" />
+              <Note Clock="9600" PitchStep="11" PitchOctave="4" Duration="960" Lyric="シ" DoReMi="true" />
+              <Note Clock="10560" PitchStep="0" PitchOctave="5" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="15360" PitchStep="0" PitchOctave="4" Duration="480" Lyric="あ" />
+              <Note Clock="15840" PitchStep="2" PitchOctave="4" Duration="480" Lyric="か" />
+              <Note Clock="16320" PitchStep="4" PitchOctave="4" Duration="480" Lyric="さ" />
+              <Note Clock="16800" PitchStep="5" PitchOctave="4" Duration="480" Lyric="た" />
+              <Note Clock="17280" PitchStep="7" PitchOctave="4" Duration="480" Lyric="な" />
+              <Note Clock="17760" PitchStep="9" PitchOctave="4" Duration="480" Lyric="は" />
+              <Note Clock="18240" PitchStep="11" PitchOctave="4" Duration="480" Lyric="ま" />
+              <Note Clock="18720" PitchStep="0" PitchOctave="5" Duration="480" Lyric="や" />
+              <Note Clock="19200" PitchStep="11" PitchOctave="4" Duration="480" Lyric="ら" />
+              <Note Clock="19680" PitchStep="9" PitchOctave="4" Duration="480" Lyric="わ" />
+              <Note Clock="20160" PitchStep="7" PitchOctave="4" Duration="480" Lyric="が" />
+              <Note Clock="20640" PitchStep="5" PitchOctave="4" Duration="480" Lyric="ざ" />
+              <Note Clock="21120" PitchStep="4" PitchOctave="4" Duration="480" Lyric="だ" />
+              <Note Clock="21600" PitchStep="2" PitchOctave="4" Duration="480" Lyric="ば" />
+              <Note Clock="22080" PitchStep="0" PitchOctave="4" Duration="480" Lyric="ぱ" />
+              <Note Clock="26880" PitchStep="0" PitchOctave="4" Duration="480" Lyric="い" />
+              <Note Clock="27360" PitchStep="2" PitchOctave="4" Duration="480" Lyric="き" />
+              <Note Clock="27840" PitchStep="4" PitchOctave="4" Duration="480" Lyric="し" />
+              <Note Clock="28320" PitchStep="5" PitchOctave="4" Duration="480" Lyric="ち" />
+              <Note Clock="28800" PitchStep="7" PitchOctave="4" Duration="480" Lyric="に" />
+              <Note Clock="29280" PitchStep="9" PitchOctave="4" Duration="480" Lyric="ひ" />
+              <Note Clock="29760" PitchStep="11" PitchOctave="4" Duration="480" Lyric="み" />
+              <Note Clock="30240" PitchStep="0" PitchOctave="5" Duration="480" Lyric="や’い" />
+              <Note Clock="30720" PitchStep="11" PitchOctave="4" Duration="480" Lyric="り" />
+              <Note Clock="31200" PitchStep="9" PitchOctave="4" Duration="480" Lyric="うぃ" />
+              <Note Clock="31680" PitchStep="7" PitchOctave="4" Duration="480" Lyric="ぎ" />
+              <Note Clock="32160" PitchStep="5" PitchOctave="4" Duration="480" Lyric="じ" />
+              <Note Clock="32640" PitchStep="4" PitchOctave="4" Duration="480" Lyric="でぃ" />
+              <Note Clock="33120" PitchStep="2" PitchOctave="4" Duration="480" Lyric="び" />
+              <Note Clock="33600" PitchStep="0" PitchOctave="4" Duration="480" Lyric="ぴ" />
+              <Note Clock="38400" PitchStep="0" PitchOctave="4" Duration="480" Lyric="う" />
+              <Note Clock="38880" PitchStep="2" PitchOctave="4" Duration="480" Lyric="く" />
+              <Note Clock="39360" PitchStep="4" PitchOctave="4" Duration="480" Lyric="す" />
+              <Note Clock="39840" PitchStep="5" PitchOctave="4" Duration="480" Lyric="つ" />
+              <Note Clock="40320" PitchStep="7" PitchOctave="4" Duration="480" Lyric="ぬ" />
+              <Note Clock="40800" PitchStep="9" PitchOctave="4" Duration="480" Lyric="ふ" />
+              <Note Clock="41280" PitchStep="11" PitchOctave="4" Duration="480" Lyric="む" />
+              <Note Clock="41760" PitchStep="0" PitchOctave="5" Duration="480" Lyric="ゆ" />
+              <Note Clock="42240" PitchStep="11" PitchOctave="4" Duration="480" Lyric="る" />
+              <Note Clock="42720" PitchStep="9" PitchOctave="4" Duration="480" Lyric="う" Phonetic="w,u" />
+              <Note Clock="43200" PitchStep="7" PitchOctave="4" Duration="480" Lyric="ぐ" />
+              <Note Clock="43680" PitchStep="5" PitchOctave="4" Duration="480" Lyric="ず" />
+              <Note Clock="44160" PitchStep="4" PitchOctave="4" Duration="480" Lyric="どぅ" />
+              <Note Clock="44640" PitchStep="2" PitchOctave="4" Duration="480" Lyric="ぶ" />
+              <Note Clock="45120" PitchStep="0" PitchOctave="4" Duration="480" Lyric="ぷ" />
+              <Note Clock="49920" PitchStep="0" PitchOctave="4" Duration="480" Lyric="え" />
+              <Note Clock="50400" PitchStep="2" PitchOctave="4" Duration="480" Lyric="け" />
+              <Note Clock="50880" PitchStep="4" PitchOctave="4" Duration="480" Lyric="せ" />
+              <Note Clock="51360" PitchStep="5" PitchOctave="4" Duration="480" Lyric="て" />
+              <Note Clock="51840" PitchStep="7" PitchOctave="4" Duration="480" Lyric="ね" />
+              <Note Clock="52320" PitchStep="9" PitchOctave="4" Duration="480" Lyric="へ" />
+              <Note Clock="52800" PitchStep="11" PitchOctave="4" Duration="480" Lyric="め" />
+              <Note Clock="53280" PitchStep="0" PitchOctave="5" Duration="480" Lyric="いぇ" />
+              <Note Clock="53760" PitchStep="11" PitchOctave="4" Duration="480" Lyric="れ" />
+              <Note Clock="54240" PitchStep="9" PitchOctave="4" Duration="480" Lyric="うぇ" />
+              <Note Clock="54720" PitchStep="7" PitchOctave="4" Duration="480" Lyric="げ" />
+              <Note Clock="55200" PitchStep="5" PitchOctave="4" Duration="480" Lyric="ぜ" />
+              <Note Clock="55680" PitchStep="4" PitchOctave="4" Duration="480" Lyric="で" />
+              <Note Clock="56160" PitchStep="2" PitchOctave="4" Duration="480" Lyric="べ" />
+              <Note Clock="56640" PitchStep="0" PitchOctave="4" Duration="480" Lyric="ぺ" />
+              <Note Clock="61440" PitchStep="0" PitchOctave="4" Duration="480" Lyric="お" />
+              <Note Clock="61920" PitchStep="2" PitchOctave="4" Duration="480" Lyric="こ" />
+              <Note Clock="62400" PitchStep="4" PitchOctave="4" Duration="480" Lyric="そ" />
+              <Note Clock="62880" PitchStep="5" PitchOctave="4" Duration="480" Lyric="と" />
+              <Note Clock="63360" PitchStep="7" PitchOctave="4" Duration="480" Lyric="の" />
+              <Note Clock="63840" PitchStep="9" PitchOctave="4" Duration="480" Lyric="ほ" />
+              <Note Clock="64320" PitchStep="11" PitchOctave="4" Duration="480" Lyric="も" />
+              <Note Clock="64800" PitchStep="0" PitchOctave="5" Duration="480" Lyric="よ" />
+              <Note Clock="65280" PitchStep="11" PitchOctave="4" Duration="480" Lyric="ろ" />
+              <Note Clock="65760" PitchStep="9" PitchOctave="4" Duration="480" Lyric="うぉ" />
+              <Note Clock="66240" PitchStep="7" PitchOctave="4" Duration="480" Lyric="ご" />
+              <Note Clock="66720" PitchStep="5" PitchOctave="4" Duration="480" Lyric="ぞ" />
+              <Note Clock="67200" PitchStep="4" PitchOctave="4" Duration="480" Lyric="ど" />
+              <Note Clock="67680" PitchStep="2" PitchOctave="4" Duration="480" Lyric="ぼ" />
+              <Note Clock="68160" PitchStep="0" PitchOctave="4" Duration="480" Lyric="ぽ" />
+            </Score>
+          </Song>
+        </Unit>
       </Units>
-      <Groups ActiveGroup="db68e6fd-1b6a-4578-bf48-e643fb3a4537">
-        <Group Version="1.0" Id="ff28f9ff-8ba3-4d72-9743-294d1f7847c0" Category="SingerSong" Name="SATO_Sasara" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
-        <Group Version="1.0" Id="efd3069c-149c-4baf-ba8f-85fb1eda96ba" Category="SingerSong" Name="KAFU" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR1" Language="Japanese" />
-        <Group Version="1.0" Id="1a509ed4-96cf-4e17-80af-e64f29f253ad" Category="SingerSong" Name="YUZUKI_Yukari" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-VCLMK1" Language="Japanese" />
-        <Group Version="1.0" Id="11a9cf82-2c42-4d21-a748-64cbbe050985" Category="SingerSong" Name="TOHOKU_Kiritan" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-AHS1" Language="Japanese" />
-        <Group Version="1.0" Id="8cb0c3ec-bfe8-4d49-9ef7-7e7f26de90a5" Category="SingerSong" Name="IA_CMaj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-FP5" Language="Japanese" />
-        <Group Version="1.0" Id="5b28a934-2ac7-4da7-abf0-fdbf243d2b41" Category="SingerSong" Name="IA_GMaj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-FP5" Language="Japanese" />
-        <Group Version="1.0" Id="a3a1efa1-10ab-4c73-861e-b06d47bfacae" Category="SingerSong" Name="IA_English" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-ENF-FP5" Language="English" />
-        <Group Version="1.0" Id="20fee5ab-678f-4671-9003-bd09e8d7e3fc" Category="SingerSong" Name="ONE" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-FP4" Language="Japanese" />
-        <Group Version="1.0" Id="5923ef9a-3c59-4e74-ac25-9961ba46f288" Category="SingerSong" Name="TOHOKU_Zunko_CMaj" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-AHS5" Language="Japanese" />
-        <Group Version="1.0" Id="69206c7d-5631-44cd-a752-e2a3fc759a84" Category="SingerSong" Name="TOHOKU_Zunko_AMaj" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-AHS5" Language="Japanese" />
-        <Group Version="1.0" Id="3dec98dc-d971-4bc5-b338-de0984f35849" Category="SingerSong" Name="TOHOKU_Itako" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-AHS6" Language="Japanese" />
-        <Group Version="1.0" Id="4c5847e5-7c31-4c81-b6f7-977d10b6e916" Category="SingerSong" Name="SUZUKI_Tsudumi_Emo0" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-B" Language="Japanese" />
-        <Group Version="1.0" Id="b5741c0d-6d8e-4b27-9c3f-0b9fef7da294" Category="SingerSong" Name="SUZUKI_Tsudumi_Emo1" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-B" Language="Japanese" />
-        <Group Version="1.0" Id="82ea067e-bbb4-4476-b4f5-a213904d29cb" Category="SingerSong" Name="SEKAI" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR2" Language="Japanese" />
-        <Group Version="1.0" Id="b50b6dc3-5993-4a2a-9432-4d5426271e3b" Category="SingerSong" Name="RIME" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR3" Language="Japanese" />
-        <Group Version="1.0" Id="b57a88b5-f0c9-416e-beca-2deb7f5b169f" Category="SingerSong" Name="＃kzn" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-KZA1" Language="Japanese" />
-        <Group Version="1.0" Id="fb6a5883-152e-4c14-962f-9bc061a0bb27" Category="SingerSong" Name="FUTABA_Minato" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-GLA1" Language="Japanese" />
-        <Group Version="1.0" Id="a1778012-a588-4dee-a1ed-487fc0d11576" Category="SingerSong" Name="POPY" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-BSR1" Language="Japanese" />
-        <Group Version="1.0" Id="9d07df65-6a2a-4e66-9e4f-313732ec61d9" Category="SingerSong" Name="ROSE" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-BSR2" Language="Japanese" />
-        <Group Version="1.0" Id="41be5736-6784-411a-b746-dea0e9f4fe62" Category="SingerSong" Name="COKO_Emo0" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
-        <Group Version="1.0" Id="db68e6fd-1b6a-4578-bf48-e643fb3a4537" Category="SingerSong" Name="COKO_Emo1" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-THR4" Language="Japanese" />
+      <Groups ActiveGroup="7b403864-2fff-4224-8e9d-bef4b7e99a03">
+        <Group Version="1.0" Id="ff28f9ff-8ba3-4d72-9743-294d1f7847c0" Category="SingerSong" Name="SATO_Sasara" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-A" Language="Japanese" />
+        <Group Version="1.0" Id="efd3069c-149c-4baf-ba8f-85fb1eda96ba" Category="SingerSong" Name="KAFU" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR1" Language="Japanese" />
+        <Group Version="1.0" Id="1a509ed4-96cf-4e17-80af-e64f29f253ad" Category="SingerSong" Name="YUZUKI_Yukari" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-VCLMK1" Language="Japanese" />
+        <Group Version="1.0" Id="11a9cf82-2c42-4d21-a748-64cbbe050985" Category="SingerSong" Name="TOHOKU_Kiritan" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-AHS1" Language="Japanese" />
+        <Group Version="1.0" Id="8cb0c3ec-bfe8-4d49-9ef7-7e7f26de90a5" Category="SingerSong" Name="IA_CMaj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-FP5" Language="Japanese" />
+        <Group Version="1.0" Id="5b28a934-2ac7-4da7-abf0-fdbf243d2b41" Category="SingerSong" Name="IA_GMaj." Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-FP5" Language="Japanese" />
+        <Group Version="1.0" Id="a3a1efa1-10ab-4c73-861e-b06d47bfacae" Category="SingerSong" Name="IA_English" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-ENF-FP5" Language="English" />
+        <Group Version="1.0" Id="20fee5ab-678f-4671-9003-bd09e8d7e3fc" Category="SingerSong" Name="ONE" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-FP4" Language="Japanese" />
+        <Group Version="1.0" Id="5923ef9a-3c59-4e74-ac25-9961ba46f288" Category="SingerSong" Name="TOHOKU_Zunko_CMaj" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-AHS5" Language="Japanese" />
+        <Group Version="1.0" Id="69206c7d-5631-44cd-a752-e2a3fc759a84" Category="SingerSong" Name="TOHOKU_Zunko_AMaj" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-AHS5" Language="Japanese" />
+        <Group Version="1.0" Id="3dec98dc-d971-4bc5-b338-de0984f35849" Category="SingerSong" Name="TOHOKU_Itako" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-AHS6" Language="Japanese" />
+        <Group Version="1.0" Id="4c5847e5-7c31-4c81-b6f7-977d10b6e916" Category="SingerSong" Name="SUZUKI_Tsudumi_Emo0" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-B" Language="Japanese" />
+        <Group Version="1.0" Id="b5741c0d-6d8e-4b27-9c3f-0b9fef7da294" Category="SingerSong" Name="SUZUKI_Tsudumi_Emo1" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-B" Language="Japanese" />
+        <Group Version="1.0" Id="82ea067e-bbb4-4476-b4f5-a213904d29cb" Category="SingerSong" Name="SEKAI" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR2" Language="Japanese" />
+        <Group Version="1.0" Id="b50b6dc3-5993-4a2a-9432-4d5426271e3b" Category="SingerSong" Name="RIME" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR3" Language="Japanese" />
+        <Group Version="1.0" Id="b57a88b5-f0c9-416e-beca-2deb7f5b169f" Category="SingerSong" Name="＃kzn" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-KZA1" Language="Japanese" />
+        <Group Version="1.0" Id="fb6a5883-152e-4c14-962f-9bc061a0bb27" Category="SingerSong" Name="FUTABA_Minato" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-GLA1" Language="Japanese" />
+        <Group Version="1.0" Id="a1778012-a588-4dee-a1ed-487fc0d11576" Category="SingerSong" Name="POPY" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-BSR1" Language="Japanese" />
+        <Group Version="1.0" Id="9d07df65-6a2a-4e66-9e4f-313732ec61d9" Category="SingerSong" Name="ROSE" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-BSR2" Language="Japanese" />
+        <Group Version="1.0" Id="41be5736-6784-411a-b746-dea0e9f4fe62" Category="SingerSong" Name="COKO_Emo0" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="db68e6fd-1b6a-4578-bf48-e643fb3a4537" Category="SingerSong" Name="COKO_Emo1" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="7b403864-2fff-4224-8e9d-bef4b7e99a03" Category="SingerSong" Name="Ci_flower" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-ICTR1" Language="Japanese" />
       </Groups>
       <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="0" />
     </Scene>
