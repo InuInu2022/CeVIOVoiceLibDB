@@ -53,6 +53,11 @@
 * ソングボイスの調号指定の違いによる影響のデータです
 * ccsファイルとlabファイルが含まれます
 
+### [Song] SpecialLabelCheck
+
+* :construction_worker:WIP
+* CeVIO / VoiSonaの歌詞中に入力可能な特殊記号のチェックデータです。
+
 ## 📓Note
 
 
