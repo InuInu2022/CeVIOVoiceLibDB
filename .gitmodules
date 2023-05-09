@@ -1,0 +1,6 @@
+[submodule "tools/libs/LibSasara"]
+	path = tools/libs/LibSasara
+	url = https://github.com/InuInu2022/LibSasara.git
+[submodule "tools/libs/cevio-casts"]
+	path = tools/libs/cevio-casts
+	url = https://github.com/InuInu2022/cevio-casts.git
