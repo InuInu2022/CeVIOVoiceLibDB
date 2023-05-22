@@ -5,7 +5,7 @@ using CevioCasts;
 using System.Text.RegularExpressions;
 
 const string path = "..\\..\\SongVoices\\AlphaValueCheck\\AlphaValueCheck.ccs";
-//CeVIOFileBase ccs = await SasaraCcs.LoadAsync(path);
+const Product product = Product.VoiSona;
 
 string jsonString = File.ReadAllText("../libs/cevio-casts/data/data.json");
 Definitions defs = Definitions.FromJson(jsonString);
@@ -30,7 +30,7 @@ Cast sasara = defs.Casts
 List<(string cid, string name)> castIds = defs.Casts
 	.Where(c =>
 		c.Category is CevioCasts.Category.SingerSong
-			&& c.Product is Product.CeVIO_AI
+			&& c.Product is product
 	)
 	.Select(c => (
 		cid: c.Cname,
@@ -77,12 +77,24 @@ foreach (var cast in castIds)
 		ccs.RawGroups
 			.Find(x => new Guid(x.Attribute("Id")?.Value!) == nid)!
 			.SetAttributeValue("Name", newname);
+
+		//remove template track data
+		//tr.RemoveAllUnits();	//TODO:fix bug
+		tr.RawUnits.ForEach(u => u.Remove());
+		tr.RawGroup.Remove();
 	}
 
 	var dir = Path.GetDirectoryName(path)!;
 	var file = Path.GetFileNameWithoutExtension(path);
 	var newFile = $"{file}_{cast.name.Replace(" ", "_")}.ccs";
-	var savePath = Path.Combine(dir, newFile);
+	var app = product switch
+	{
+		Product.CeVIO_AI => "AI",
+		Product.CeVIO_CS => "CS",
+		Product.VoiSona => "VoiSona",
+		_ => ""
+	};
+	var savePath = Path.Combine(dir, app, newFile);
 	await ccs.SaveAsync(savePath);
 }
 

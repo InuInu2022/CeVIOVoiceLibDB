@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Scenario Code="7251BC4B6168E7B2992FA620BD3E1E77">
+  <Sequence Id="">
+    <Scene Id="">
+      <Timeline Partition="333.714285714286,242.285714285714" CurrentPosition="00:00:00">
+        <ViewScale Horizontal="0.31" Vertical="0.375" />
+      </Timeline>
+      <TalkEditor Partition="592">
+        <Extension VerticalRatio="241.714285714286*,224.571428571429*" />
+      </TalkEditor>
+      <SongEditor Partition="64" Quantize="240" Mode="6" EditingTool="0">
+        <ViewScale Horizontal="64" Vertical="14" />
+        <ReferenceState Current="Alpha" Previous="None" />
+      </SongEditor>
+      <Units>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="9a7ac3d1-328d-419a-9849-4c3cf3f157b8" StartTime="00:00:00" Duration="00:00:06" CastId="CSV-ENF-FP3-N" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score>
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="3840" Lyric="ド" DoReMi="true" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="f8eb9203-83d9-416d-9b36-285a0d43e2d5" StartTime="00:00:00" Duration="00:00:06" CastId="CSV-ENF-FP3-N" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Alpha="0.6">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="3840" Lyric="ド" DoReMi="true" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="0f9b4cfd-395f-48e8-bcb1-a453503631c5" StartTime="00:00:00" Duration="00:00:06" CastId="CSV-ENF-FP3-N" Language="Japanese">
+          <Song Version="1.07">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Alpha="0.5">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="3840" Lyric="ド" DoReMi="true" />
+            </Score>
+          </Song>
+        </Unit>
+      </Units>
+      <Groups ActiveGroup="d285298f-aafb-48e1-81a3-a02d4c6ee10a">
+        <Group Version="1.0" Id="9a7ac3d1-328d-419a-9849-4c3cf3f157b8" Category="SingerSong" Name="IA English Natural" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSV-ENF-FP3-N" Language="Japanese" />
+        <Group Version="1.0" Id="f8eb9203-83d9-416d-9b36-285a0d43e2d5" Category="SingerSong" Name="IA English Natural_max" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSV-ENF-FP3-N" Language="Japanese" />
+        <Group Version="1.0" Id="0f9b4cfd-395f-48e8-bcb1-a453503631c5" Category="SingerSong" Name="IA English Natural_min" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSV-ENF-FP3-N" Language="Japanese" />
+      </Groups>
+      <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="0" />
+    </Scene>
+  </Sequence>
+</Scenario>
