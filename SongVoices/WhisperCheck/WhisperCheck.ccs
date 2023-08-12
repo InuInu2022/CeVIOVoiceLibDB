@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Scenario Code="7251BC4B6168E7B2992FA620BD3E1E77">
   <Generation>
-    <Author Version="8.5.3.0" />
-    <TTS Version="6.3.0">
+    <Author Version="8.6.6.0" />
+    <TTS Version="6.3.2">
       <Dictionary Version="3.0.18">
         <Extension Version="2.0.2" Language="English" />
       </Dictionary>
       <SoundSources />
     </TTS>
-    <SVSS Version="6.3.0">
+    <SVSS Version="6.3.2">
       <Dictionary Version="3.0.1">
         <Extension Version="2.0.1" Language="English" />
       </Dictionary>
@@ -17,20 +17,21 @@
         <SoundSource Version="1.0.0" Id="CSNV-JPF-THR2" Name="星界(SEKAI)" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-THR3" Name="裏命(RIME)" />
         <SoundSource Version="1.0.0" Id="CSNV-JPF-THR4" Name="狐子(COKO)" />
+        <SoundSource Version="1.0.1" Id="CSNV-JPF-BNE1" Name="りむる" />
       </SoundSources>
     </SVSS>
   </Generation>
   <Sequence Id="">
     <Scene Id="">
-      <Timeline Partition="333.714285714286,193.714285714286" CurrentPosition="00:00:06.4320000">
+      <Timeline Partition="333.714285714286,293.714285714286" CurrentPosition="00:00:01.6250000">
         <ViewScale Horizontal="0.31" Vertical="0.375" />
       </Timeline>
       <TalkEditor Partition="592">
         <Extension VerticalRatio="336.571428571429*,257.714285714286*" />
       </TalkEditor>
-      <SongEditor Partition="64" Quantize="240" Mode="2" EditingTool="0">
+      <SongEditor Partition="64" Quantize="240" Mode="1" EditingTool="1">
         <ViewScale Horizontal="80" Vertical="14" />
-        <ReferenceState Current="C0, LogF0" Previous="C0, LogF0" />
+        <ReferenceState Current="C0, LogF0, VibAmp" Previous="C0, LogF0" />
       </SongEditor>
       <Units>
         <Unit Version="1.0" Id="" Category="SingerSong" Group="656f5cfc-6bba-463b-abc6-7242167ffd09" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-THR1" Language="Japanese">
@@ -3607,12 +3608,47 @@
             </Parameter>
           </Song>
         </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="c890bd04-80d2-43f0-be8e-33ba74d6403e" StartTime="00:00:00" Duration="00:00:08" CastId="CSNV-JPF-BNE1" Language="Japanese">
+          <Song Version="1.08">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Husky="0.228155339805824">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="10" />
+              <Dynamics Clock="3840" Value="0" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="960" Lyric="ド" DoReMi="true" />
+              <Note Clock="4800" PitchStep="2" PitchOctave="4" Duration="960" Lyric="レ" DoReMi="true" />
+              <Note Clock="5760" PitchStep="4" PitchOctave="4" Duration="960" Lyric="ミ" DoReMi="true" />
+              <Dynamics Clock="6720" Value="10" />
+              <Dynamics Clock="7680" Value="0" />
+              <Note Clock="7680" PitchStep="2" PitchOctave="4" Duration="960" Lyric="ひ" />
+              <Note Clock="8640" PitchStep="9" PitchOctave="3" Duration="960" Lyric="そっ" Breath="true" />
+              <Note Clock="9600" PitchStep="2" PitchOctave="4" Duration="960" Lyric="ひ" />
+              <Note Clock="10560" PitchStep="9" PitchOctave="3" Duration="960" Lyric="そっ" />
+              <Dynamics Clock="11520" Value="5" />
+            </Score>
+            <Parameter>
+              <LogF0 Length="1600">
+                <NoData Index="397" Repeat="302" />
+                <NoData Index="799" Repeat="84" />
+                <NoData Index="897" Repeat="67" />
+                <NoData Index="999" Repeat="84" />
+                <NoData Index="1098" Repeat="99" />
+              </LogF0>
+            </Parameter>
+          </Song>
+        </Unit>
       </Units>
-      <Groups ActiveGroup="656f5cfc-6bba-463b-abc6-7242167ffd09">
-        <Group Version="1.0" Id="656f5cfc-6bba-463b-abc6-7242167ffd09" Category="SingerSong" Name="KAFU" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-THR1" Language="Japanese" />
+      <Groups ActiveGroup="c890bd04-80d2-43f0-be8e-33ba74d6403e">
+        <Group Version="1.0" Id="656f5cfc-6bba-463b-abc6-7242167ffd09" Category="SingerSong" Name="KAFU" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR1" Language="Japanese" />
         <Group Version="1.0" Id="3101b0f5-052e-4d63-a64e-2eb048bdfeb2" Category="SingerSong" Name="SEKAI" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR2" Language="Japanese" />
         <Group Version="1.0" Id="8c429cef-6da8-4a88-8350-774bd8d86c6b" Category="SingerSong" Name="RIME" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR3" Language="Japanese" />
         <Group Version="1.0" Id="d8de40da-2c0c-4845-a68f-a35aa310bf36" Category="SingerSong" Name="COKO" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="false" IsMuted="true" CastId="CSNV-JPF-THR4" Language="Japanese" />
+        <Group Version="1.0" Id="c890bd04-80d2-43f0-be8e-33ba74d6403e" Category="SingerSong" Name="Reml" Color="#FFAF1F14" Volume="0" Pan="0" IsSolo="true" IsMuted="false" CastId="CSNV-JPF-BNE1" Language="Japanese" />
       </Groups>
       <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="0" />
     </Scene>
