@@ -796,7 +796,7 @@
         </Unit>
       </Units>
       <Groups ActiveGroup="d229a3cc-4e55-46c8-a424-5c4ad52ae118">
-        <Group Version="1.0" Id="d229a3cc-4e55-46c8-a424-5c4ad52ae118" Category="TextVocal" Name="CeVIO_AI" Color="#FF267CCB" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="Mixed" Language="Japanese" />
+        <Group Version="1.0" Id="d229a3cc-4e55-46c8-a424-5c4ad52ae118" Category="TextVocal" Name="CeVIO_AI_Angry" Color="#FF267CCB" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="Mixed" Language="Japanese" />
       </Groups>
       <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="0" />
     </Scene>
