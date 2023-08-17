@@ -4,9 +4,9 @@
 
 ----
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE) ![GitHub Repo stars](https://img.shields.io/github/stars/InuInu2022/CeVIOVoiceLibDB?label=%E2%98%85&logo=github)
-[![CeVIO CS](https://img.shields.io/badge/CeVIO_Creative_Studio-7.0-d08cbb.svg?logo=&style=flat)](https://cevio.jp/) [![CeVIO AI](https://img.shields.io/badge/CeVIO_AI-8.5-lightgray.svg?logo=&style=flat)](https://cevio.jp/) [![VoiSona](https://img.shields.io/badge/VoiSona-1.5-53abdb.svg?logo=&style=flat)](https://voisona.com/)
+[![CeVIO CS](https://img.shields.io/badge/CeVIO_Creative_Studio-7.0-d08cbb.svg?logo=&style=flat)](https://cevio.jp/) [![CeVIO AI](https://img.shields.io/badge/CeVIO_AI-8.6-lightgray.svg?logo=&style=flat)](https://cevio.jp/) [![VoiSona](https://img.shields.io/badge/VoiSona-1.7-53abdb.svg?logo=&style=flat)](https://voisona.com/)
 
-音声合成ソフト[CeVIO](https://cevio.jp/)の音源（ボイスライブラリ）比較用リポジトリです。
+音声合成ソフト[CeVIO](https://cevio.jp/) / [VoiSona](https://voisona.com/)の音源（ボイスライブラリ）比較用リポジトリです。
 
 <!--
 ## DEMO
@@ -70,9 +70,13 @@
 * :construction_worker:WIP
 * CeVIO / VoiSonaの歌詞中に入力可能な特殊記号のチェックデータです。
 
-#### [Song] WhisperCheck
+#### [Song] VoiSonaCeVIOHuskeyCheck [![CeVIO AI](https://img.shields.io/badge/CeVIO_AI-8.5-lightgray.svg?logo=&style=flat)](https://cevio.jp/)
 
-* :construction_worker:WIP ※キャストが4名のみ
+* CeVIO / VoiSona両方でリリースされているボイスライブラリのHuskeyの値のチェックデータです。
+
+#### [Song] WhisperCheck [![CeVIO AI](https://img.shields.io/badge/CeVIO_AI-8.5-lightgray.svg?logo=&style=flat)](https://cevio.jp/)
+
+* :construction_worker:WIP
 * CeVIO AI 8.5以降でささやき歌唱を再現するデータです
 * VOLやHuskyなどの値がキャストによって異なるので手動で検証しています
 
