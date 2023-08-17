@@ -82,6 +82,11 @@
 
 ### 🧪Talk voice data
 
+#### [Talk] EmotionCompare
+
+* :construction_worker:WIP
+* 近い感情パラメータでの違いの比較データです
+
 :construction_worker:WIP
 
 ## 📓Note
