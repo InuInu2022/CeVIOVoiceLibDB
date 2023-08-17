@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scenario Code="7251BC4B6168E7B2992FA620BD3E1E77">
+  <Generation>
+    <Author Version="8.6.7.0" />
+    <TTS Version="6.3.2">
+      <Dictionary Version="3.0.19">
+        <Extension Version="2.0.2" Language="English" />
+      </Dictionary>
+      <SoundSources />
+    </TTS>
+    <SVSS Version="6.3.2">
+      <Dictionary Version="3.0.1">
+        <Extension Version="2.0.1" Language="English" />
+      </Dictionary>
+      <SoundSources>
+        <SoundSource Version="1.0.1" Id="CSNV-JPF-A" Name="さとうささら" />
+        <SoundSource Version="1.1.0" Id="CSNV-JPF-VCLMK1" Name="結月ゆかり 麗" />
+        <SoundSource Version="1.0.0" Id="CSNV-JPF-KZA1" Name="#kzn" />
+      </SoundSources>
+    </SVSS>
+  </Generation>
+  <Sequence Id="">
+    <Scene Id="">
+      <Timeline Partition="200,313.142857142857" CurrentPosition="00:00:03.7280000">
+        <ViewScale Horizontal="0.31" Vertical="0.64583333333333337" />
+      </Timeline>
+      <TalkEditor Partition="592">
+        <Extension VerticalRatio="336.571428571429*,257.714285714286*" />
+      </TalkEditor>
+      <SongEditor Partition="64" Quantize="240" Mode="0" EditingTool="1">
+        <ViewScale Horizontal="80" Vertical="14" />
+        <ReferenceState Current="None" Previous="None" />
+      </SongEditor>
+      <Units>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="eea7cf4a-34d7-7dcd-4708-ecbd017ce60c" StartTime="00:00:00" Duration="00:00:06" CastId="CSNV-JPF-A" Language="Japanese">
+          <Song Version="1.08">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Husky="1">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="2880" Lyric="ド＿" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="b10dc1b7-90a3-4db8-910a-3cbdac739828" StartTime="00:00:00" Duration="00:00:06" CastId="CSNV-JPF-KZA1" Language="Japanese">
+          <Song Version="1.08">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Husky="1">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="2880" Lyric="ド＿" />
+            </Score>
+          </Song>
+        </Unit>
+        <Unit Version="1.0" Id="" Category="SingerSong" Group="6794138e-644b-4c69-aef9-d02691fac4ac" StartTime="00:00:00" Duration="00:00:06" CastId="CSNV-JPF-VCLMK1" Language="Japanese">
+          <Song Version="1.08">
+            <Tempo>
+              <Sound Clock="0" Tempo="120" />
+            </Tempo>
+            <Beat>
+              <Time Clock="0" Beats="4" BeatType="4" />
+            </Beat>
+            <Score Husky="1">
+              <Key Clock="0" Fifths="0" Mode="0" />
+              <Dynamics Clock="0" Value="5" />
+              <Note Clock="3840" PitchStep="0" PitchOctave="4" Duration="2880" Lyric="ド＿" />
+            </Score>
+          </Song>
+        </Unit>
+      </Units>
+      <Groups ActiveGroup="6794138e-644b-4c69-aef9-d02691fac4ac">
+        <Group Version="1.0" Id="eea7cf4a-34d7-7dcd-4708-ecbd017ce60c" Category="SingerSong" Name="CeVIO_AI_Sato_Sasara" Color="#00FFFFFF" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-A" Language="Japanese" />
+        <Group Version="1.0" Id="b10dc1b7-90a3-4db8-910a-3cbdac739828" Category="SingerSong" Name="CeVIO_AI_kzn" Color="#00FFFFFF" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-KZA1" Language="Japanese" />
+        <Group Version="1.0" Id="6794138e-644b-4c69-aef9-d02691fac4ac" Category="SingerSong" Name="CeVIO_AI_Yuzuki_Yukari_Rei" Color="#00FFFFFF" Volume="0" Pan="0" IsSolo="false" IsMuted="false" CastId="CSNV-JPF-VCLMK1" Language="Japanese" />
+      </Groups>
+      <SoundSetting Rhythm="4/4" Tempo="78" MasterVolume="0" />
+    </Scene>
+  </Sequence>
+</Scenario>
